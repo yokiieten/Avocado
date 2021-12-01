@@ -11,7 +11,7 @@ import SwiftUI
 struct AVOCADO_RECIPESApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppView()
         }
     }
 }
